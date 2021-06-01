@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2020-08-17 16:25:22
- * @LastEditTime: 2020-08-17 16:28:02
+ * @LastEditTime: 2021-06-01 15:57:01
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /methodsAccumulation/JS方法/Promise.js
@@ -94,3 +94,4 @@ console.log(Reflect.apply(Math.floor, undefined, [1.75]));
 console.log(Function.prototype.apply.call(Math.floor, undefined, [1.75]));
 // expected output: 1
 
+2222
